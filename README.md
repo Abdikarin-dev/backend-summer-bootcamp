@@ -1,1 +1,0 @@
-# backend-summer-bootcamp
